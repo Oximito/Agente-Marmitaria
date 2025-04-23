@@ -1,0 +1,84 @@
+# PROCEDIMENTOS ESPECÍFICOS
+
+## Checklist de Verificação
+
+1. Dados do cliente completos e corretos
+2. Endereço de entrega validado (se aplicável)
+3. Itens do pedido confirmados
+4. Valor total e forma de pagamento verificados
+5. Horário de entrega/retirada acordado
+6. Observações especiais registradas
+7. Estrelas D'Ajuda atualizadas
+
+## Protocolo de Emergência
+
+8. Identificar a natureza da emergência
+9. Informar o cliente sobre a situação de forma clara e empática
+10. Transferir imediatamente para atendimento humano
+11. Registrar ocorrência no sistema
+12. Acompanhar resolução e feedback ao cliente
+
+## Fluxo de Reclamações
+
+13. Ouvir atentamente a reclamação do cliente
+14. Demonstrar empatia e compreensão
+15. Registrar detalhes da reclamação
+16. Informar que um atendente especializado entrará em contato
+17. Transferir para atendimento humano
+18. Acompanhar resolução e retorno ao cliente
+
+## Processo de Cancelamento
+
+19. Verificar status do pedido
+20. Se ainda não em preparo:
+    - Confirmar motivo do cancelamento
+    - Processar cancelamento no sistema
+    - Informar sobre estorno (se aplicável)
+21. Se em preparo ou após tempo limite:
+    - Informar impossibilidade de cancelamento
+    - Oferecer alternativas (se possível)
+    - Transferir para atendimento humano se necessário
+
+## Alteração de Pedidos
+
+22. Verificar se o pedido ainda não está em preparo
+23. Se possível alterar:
+    - Registrar mudanças solicitadas
+    - Recalcular valor (se necessário)
+    - Confirmar alterações com o cliente
+24. Se não for possível:
+    - Explicar motivo da impossibilidade
+    - Oferecer alternativas
+    - Transferir para atendimento humano se o cliente insistir
+
+## Devolução/Troca
+
+25. Identificar motivo da solicitação
+26. Informar que devolução/troca será analisada pela equipe
+27. Registrar detalhes da solicitação
+28. Transferir para atendimento humano
+29. Acompanhar resolução e retorno ao cliente
+
+## Atrasos Operacionais
+
+30. Identificar causa do atraso
+31. Informar cliente sobre a situação
+32. Oferecer estimativa atualizada de entrega
+33. Registrar ocorrência no sistema
+34. Se atraso for significativo, transferir para atendimento humano
+
+## Indisponibilidade de Itens
+
+35. Informar cliente sobre item indisponível
+36. Oferecer alternativas similares
+37. Se cliente aceitar alternativa, atualizar pedido
+38. Se cliente não aceitar, oferecer opção de cancelamento ou remoção do item
+39. Transferir para atendimento humano se necessário
+
+## Casos Especiais
+
+40. Identificar natureza do caso especial
+41. Informar cliente que situação requer atenção especializada
+42. Registrar detalhes do caso
+43. Transferir imediatamente para atendimento humano
+44. Acompanhar resolução e retorno ao cliente

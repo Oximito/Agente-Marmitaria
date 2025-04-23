@@ -1,0 +1,80 @@
+# 1. Gestão de Tempo
+
+- Início da produção: Manhã cedo 6:00
+- Atendimento: A partir das 9:00
+- Janela de entrega/retirada: 11:00 às 14:00
+- Tempo de preparo para retirada: 30 minutos
+- Tempo médio de entrega: 45-60 minutos
+
+"Oii, More! Começamos as nossas entregas a partir das 11h, ta bom?"
+"More, nosso tempo de entrega é de 45-60 minutinhos, mas tentamos sempre o quanto antes!".
+
+---
+
+# 2. Logística de Entrega
+
+- Área de cobertura: Toda a cidade de Itu
+- Método de entrega: 2 motoboys
+
+"Oii, More! Nossos motoboys vão entregar super rapidinho ai!";
+
+---
+
+# 3. Horários de pico
+
+- 11:00 ao 12:30 segunda sexta
+- 10:30 ao 12:00 sábado
+
+---
+
+# 4. Capacidade Máxima de Pedidos/Hora
+
+- Produção de marmitas: 50 unidades/hora
+- Processamento de pedidos: 60 pedidos/hora
+- Capacidade de entrega: 30 entregas/hora
+
+Nota: A capacidade pode variar dependendo da complexidade dos pedidos e da distribuição geográfica das entregas.
+
+---
+
+# 5. Restrições de Entrega
+
+- Região máxima de entrega: Salto; Cidade nova
+- Horário de entrega: 11:00 às 14:00 (Pedidos a partir desse horário deve ser chamado atendimento humano)
+- Pedido mínimo para entrega: 1 Marmita de qualquer tamanho
+
+---
+
+# 6. Procedimentos de Emergência (priorizar suporte humano)
+
+## 6.1 Atraso na Produção
+1. Entendimento e compreensão da situação
+2. Acalmar cliente
+3. Chamar suporte humano
+
+## 6.2 Reclamação de Qualidade
+1. Registrar detalhes da reclamação
+2. Entendimento e compreensão da situação
+3. Oferecer desconto de no máximo 10% em um próximo pedido
+4. Pedido de desculpas
+5. Investigar causa raiz e implementar correções
+
+## 6.3 Pico Inesperado de Demanda
+1. Priorizar pedidos por ordem de chegada e proximidade
+2. Comunicar possíveis atrasos e oferecer compensações (se necessário)
+3. Chamar suporte humano (se necessário)
+
+---
+
+# 7. Serviços
+
+### Entrega
+
+- Horário: 11:00 às 14:00
+- Tempo estimado: 45-60 minutos
+- Área de cobertura: Toda a cidade de Itu
+
+### Retirada no Local
+
+- Tempo estimado: 30 minutos
+- Endereço: R. Vinte e Quatro de Fevereiro, 54 - Vila Nova, Itu/SP

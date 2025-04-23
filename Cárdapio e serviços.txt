@@ -1,0 +1,160 @@
+# 1. Descrição das marmitas clássicas
+
+## 1.1 Bife Acebolado com Fritas
+
+### Descrição
+
+O clássico que nunca erra! Nosso bife acebolado é suculento e macio, coberto por uma camada generosa de cebolas douradas e crocantes. Acompanha batatas fritas sequinhas por fora e macias por dentro.
+
+### Composição
+
+- Bife bovino grelhado
+- Cebolas caramelizadas
+- Batatas fritas crocantes
+- Arroz soltinho
+- Feijão cremoso
+- Farofa temperada
+- Macarrão al dente
+
+### Diferencial
+
+Perfeito para quem busca um almoço reconfortante e saboroso. O aroma das cebolas caramelizadas vai te transportar direto pra cozinha da vovó!
+
+
+## 1.2 Frango Empanado à Moda da Casa
+
+### Descrição
+
+Crocante por fora, macio por dentro! Nosso filé de frango é empanado com uma mistura secreta de temperos que dá um sabor único e irresistível.
+
+### Composição
+
+- Filé de frango empanado
+- Fatias de tomate
+- Queijo derretido
+- Arroz soltinho
+- Feijão cremoso
+- Macarrão al dente
+- Farofa temperada
+
+### Diferencial
+
+A crocância do frango contrasta perfeitamente com o queijo derretido, criando uma experiência de texturas que vai te surpreender a cada garfada!
+
+
+## 1.3 Omeletes
+
+### Descrição
+
+Uma explosão de sabores em forma de omelete! Fofinho e recheado com generosas porções de: Calabresa com queijo, ou Presunto e Queijo, ou Queijo e Tomate, ou Queijo.
+
+### Composição
+
+- Omelete de três ovos
+- Recheio completissimo
+- Arroz soltinho
+- Feijão cremoso
+- Macarrão al dente
+- Farofa temperada
+
+### Diferencial
+
+Perfeito para quem ama um café da manhã no almoço. O contraste entre o omelete macio e os complementos é de comer rezando!
+
+
+## 1.4 Hambúrguer à Pizzaiolo
+
+### Descrição
+
+O encontro perfeito entre hambúrguer e pizza! Nosso hambúrguer suculento é coberto com molho de tomate caseiro, queijo derretido e um toque de orégano.
+
+### Composição
+
+- Hambúrguer bovino grelhado
+- Molho de tomate caseiro
+- Queijo derretido
+- Orégano fresco
+- Arroz soltinho
+- Feijão cremoso
+- Macarrão al dente
+- Farofa temperada
+
+### Diferencial
+
+Uma opção diferente que une o melhor de dois mundos. O aroma do orégano vai te fazer sentir como se estivesse numa pizzaria italiana!
+
+---
+
+# 2. Descrição marmitas das do dia
+
+- Analise da marmita proposta do dia
+- Descrição chamativa, sem redundâncias e bem pesquisada
+
+---
+
+# 3. Tamanhos das marmitas
+
+Pequena: R$28,00 - Serve uma pessoa
+Média: R$33,00 - Serve uma a duas pessoas
+Marmita de Itu (grande): R$37,00 - Serve duas pessoas
+
+---
+
+# 4. Marmita de Itu
+
+O carro-chefe da D'Ajuda Refeições.
+
+### Características:
+
+- Peso: 1kg a 1,5kg
+- Preço: R$37,00
+- Inspirada na fama de Itu por suas coisas grandes
+
+---
+
+# 5. Composição padrão de todas as marmitas
+
+- Arroz
+- Feijão
+- Proteína específica
+- Acompanhamentos (Farofa, macarrão, legumes)
+- Salada (servida à parte)
+
+---
+
+# 6. Cardápio Rotativo
+
+Oferece variedade diária aos clientes.
+
+### Categorias:
+
+1. **Marmitas do Dia**: Opções especiais que mudam diariamente
+2. **Marmitas Clássicas**: Opções fixas sempre disponíveis
+
+### Exemplos de pratos:
+
+- Feijoada (somente aos sábados)
+- Filé de frango à parmegiana
+- Bife à role
+- Arroz com suã
+- Strogonoff
+- Frango assado
+
+Nota: Salvar no banco de dados todos os pratos que já foram colocados no cardápio do dia.
+
+# 7. Saladas Individuais
+
+Opções de saladas cobradas à parte das marmitas principais.
+
+---
+
+# 8. Bebidas
+
+### Opções disponíveis:
+
+- Lata 350ml: Coca-Cola, Coca Zero, Fanta Laranja, Guaraná Antártica (R$5,00)
+- Garrafa 600ml: Coca-Cola, Fanta Laranja (R$7,00)
+- 2 Litros: Coca-Cola (R`12,00), Fanta Laranja, Kuat (R`10,00)
+- Água: 1,5L (R`6,00), 500ml (R`4,00)
+
+---

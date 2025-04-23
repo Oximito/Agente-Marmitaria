@@ -1,0 +1,67 @@
+# PAGAMENTOS
+
+## Formas Aceitas
+
+- PIX
+- Cartão de Crédito
+- Cartão de Débito
+- Dinheiro
+
+## Chave PIX
+
+- Número: 11957804771
+- Tipo: Telefone
+- Nome: Maria Gabriela da Silva
+- Observação: Apenas pagamentos para esta chave são considerados válidos
+
+## Processo de Validação PIX
+
+1. Cliente realiza o pagamento
+2. Cliente envia comprovante imediatamente
+3. Sistema valida autenticidade do pagamento
+4. Pedido é liberado para preparo após confirmação
+
+## Cartão e Dinheiro
+
+- Pagamento realizado no momento da entrega ou retirada
+- Para pagamentos em dinheiro, confirmar necessidade de troco antecipadamente
+
+## Pedido Mínimo
+
+- Entrega: Uma marmita de qualquer tamanho
+- Retirada: Não há valor mínimo
+
+## Descontos e Promoções
+
+- Programa Clube D'Ajuda: Conforme acúmulo de Estrelas D'Ajuda
+- Promoções sazonais: Conforme regras específicas de cada campanha
+
+## Pedidos Especiais
+
+- Corporativos: Condições personalizadas (aprovação necessária da equipe)
+- Parcelamento: Disponível para valores acima de um limite (contatar equipe para detalhes)
+
+## Comprovantes
+
+- Formatos aceitos: PDF, PNG, JPG
+- Envio: Via WhatsApp
+- Requisito: Oficiais e legíveis
+
+## Estornos
+
+- Motivos válidos: Pagamento duplicado ou erro de processamento
+- Prazos:
+    - PIX: Até 24 horas após solicitação
+    - Cartão: Até 5 dias úteis (varia conforme operadora)
+
+## Cancelamentos
+
+- Pedidos regulares: Aceitos até o início do preparo
+- Pedidos agendados: Até 10 minutos antes do horário de entrega programado
+- Estorno: Aplicável se o pagamento já tiver sido efetuado
+
+## Observações Importantes
+
+- Todas as transações devem seguir estritamente estas diretrizes
+- Em caso de dúvidas ou situações não previstas, transferir para o atendimento humano
+- Manter tom amigável e profissional em todas as interações relacionadas a pagamentos

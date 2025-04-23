@@ -1,0 +1,114 @@
+# 1. Estruturas de mensagens
+
+## 1.1 Estrutura de valores
+
+````
+*✨👩🏾‍🍳 Nossos tamanhos e valores estão aqui! 👩🏾‍🍳✨*
+
+_🍽 Marmitas do dia:_
+🍱 Pequena: R$28,00
+🍱 Média: R$33,00
+🍱 Marmita de Itu (1kg de fartura!): R$37,00
+
+🥳 Feijoada (disponível aos sábados)
+🍛 Pequena: R$28,00
+🍛 Média: R$38,00
+🍛 Marmita de Itu (1kg de fartura!): R$42,00
+
+=====================
+
+_🥤 Bebidas disponíveis 🥤_
+
+Lata 350ml: Coca-Cola, Coca Zero, Fanta Laranja, Guaraná Antártica – R$5,00
+
+Garrafa 600ml: Coca-Cola, Fanta Laranja – R$7,00
+
+2 Litros: Coca-Cola – R$12,00 | Fanta Laranja, Kuat – R$10,00
+
+Água:
+1,5L – R$6,00
+500ml – R$4,00
+
+=====================
+
+💖 Comida caseira, cardápio rotativo e aquele gostinho especial que abraça o coração! 🥰🍲
+
+👩🏾‍🍳 Peça agora e experimente o melhor sabor de Itu!
+````
+
+---
+
+## 1.2 Estrutura de cárdapio
+
+````
+*⬇ CARDÁPIO DE HOJE ⬇*
+
+🔥 MARMITAS DO DIA: 🔥*
+
+🌟 (Marmita do dia) – (descrição curta e chamativa)
+🌟 (Marmita do dia) – (descrição curta e chamativa)
+
+_🍳 MARMITAS CLÁSSICAS: 🍳_
+
+❥ Bife Acebolado com Fritas – o clássico que nunca erra!
+❥ Omeletes: Calabresa com queijo | Presunto e Queijo | Queijo e Tomate | Queijo – fofinhos e saborosos!
+❥ Hambúrguer à Pizzaiolo – pra quem ama um toque especial!
+❥ Filé de Frango Empanado à Moda da Casa – crocante por fora, macio por dentro!
+
+———————————————
+
+_🥤 BEBIDAS GELADINHAS 🥤_
+
+❥ 350ML: Coca-Cola, Fanta Laranja, Fanta Uva, Guaraná Antártica
+❥ 600ML: Coca-Cola, Fanta Laranja
+❥ 2L: Coca-Cola, Fanta Laranja, Kuat
+❥ Água 1,5L
+❥ Água 500ml
+
+———————————————
+
+🍽 Já escolheu sua marmita favorita? É só chamar aqui e a gente anota o pedido rapidinho! 🥰
+
+💵 Quer saber os valores? É só pedir que te enviamos a nossa tabelinha! 🩷
+
+🔄 Cardápio rotativo com novidades fresquinhas todos os dias pra te surpreender sempre! 🌟
+````
+
+---
+
+## 1.3 Estrutura de comanda
+
+````
+*🧾COMANDA DIGITAL #[NÚMERO DO PEDIDO (001 em diante)]*
+
+*📝DADOS DO CLIENTE:*
+- Nome: [Nome do Cliente]
+- Entrega ou retirada?
+- Endereço: [Endereço Completo]
+
+*🛍️PEDIDO:*
+- [Item] - R$ [Valor]  
+  Qtd: [Quantidade]
+- [Item] - R$ [Valor]  
+  Qtd: [Quantidade]
+
+*Subtotal*: R$ [Valor]  
+*Taxa de Entrega*: R$ [Valor]  
+*TOTAL*: R$ [Valor]
+
+*📌OBSERVAÇÕES* 
+[Espaço para observações do cliente]
+
+*💳FORMA DE PAGAMENTO* 
+[Método de Pagamento]
+
+*⏰Horário do Pedido*: [XX:XX]  
+*🚚Previsão de Retirada/Entrega*: [XX:XX]
+````
+---
+
+
+# 2. Estrutura operacional
+
+- Cardápio deve ser enviado de acordo com o pedido do cliente (ex.: Enviar só o cardápio de marmitas; Enviar só o cardápio de bebidas)
+- Valores devem ser enviados de acordo com o pedido do cliente (ex.: Enviar os valores apenas das marmitas da semana; Enviar os valores completos ao sábado; Enviar os valores apenas das bebidas)

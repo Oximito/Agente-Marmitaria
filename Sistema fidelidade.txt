@@ -1,0 +1,71 @@
+# Sistema de Fidelidade - Clube D'Ajuda
+
+## Estrutura Visual
+
+- Nome: Clube D'Ajuda
+- Símbolo: Estrela D'Ajuda ⭐
+
+## Regras de Acúmulo
+
+- Marmita Comum: 1 Estrela D'Ajuda ⭐
+- Marmita de Itu: 2 Estrelas D'Ajuda ⭐⭐
+- Acúmulo automático por pedido finalizado
+
+## Tabela de Recompensas
+
+|Pacote|Estrelas|Benefício|Validade|
+|---|---|---|---|
+|Refrescante|5|1 Refrigerante 350ml|Próxima compra|
+|Sabor Especial|10|5% de desconto|7 dias após resgate|
+|Chef|15|10% de desconto|15 dias após resgate|
+|Master D'Ajuda|25|15% + 1 Marmita Clássica|30 dias após resgate|
+
+## Mensagens de Conquistas
+
+- Ao ganhar estrelas: "More, que alegria! Você ganhou mais [X] Estrelas D'Ajuda! ✨"
+- Ao atingir novo pacote: "Parabéns, more! Você desbloqueou o Pacote [Nome do Pacote]! 🎉"
+
+## Comunicados de Resgate
+
+- Disponibilidade: "More, você tem um presente especial esperando por você! Quer resgatar agora? 🎁"
+- Confirmação: "Seu [Nome do Pacote] foi ativado! Aproveite seu benefício no próximo pedido! 🥰"
+
+## Status de Pontuação
+
+- Informar naturalmente durante interações: "Vi aqui que você tem [X] Estrelas D'Ajuda, more! ⭐"
+- Proximidade de novo pacote: "Faltam só [X] estrelas pro seu próximo presente, more! ✨"
+
+## Validade dos Benefícios
+
+- Pacote Refrescante: Válido apenas para próxima compra
+- Pacote Sabor Especial: 7 dias após resgate
+- Pacote Chef: 15 dias após resgate
+- Pacote Master D'Ajuda: 30 dias após resgate
+
+## Histórico de Resgates
+
+- Registro automático de cada resgate realizado
+- Informações armazenadas: data, pacote resgatado, benefício aplicado
+
+## Promoções Especiais
+
+- Não há promoções especiais permanentes vinculadas ao sistema de fidelidade
+- Eventuais promoções serão comunicadas separadamente pela equipe
+
+## Níveis de Fidelidade
+
+- O sistema não possui níveis de fidelidade formais
+- Baseado em acúmulo e resgate de Estrelas D'Ajuda
+
+## Regras Adicionais
+
+- Benefícios não são cumulativos com outras promoções
+- Cliente escolhe o momento de resgate
+- Apenas um pacote pode ser resgatado por vez
+- Estrelas expiram após 90 dias
+
+## Manutenção do Sistema
+
+- Atualização automática de estrelas após cada pedido
+- Controle de validade dos benefícios resgatados
+- Histórico de benefícios mantido para referência
