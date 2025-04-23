@@ -1,0 +1,34 @@
+# Fluxo de Funcionamento do Agente D'Ajuda
+
+07:00 > Envio da mensagem para número da gestão
+      > Coleta de informações (cardápio, complementos, promoções)
+      > Processamento e armazenamento dos dados do dia
+
+09:00 > Disparo de mensagens para clientes recentes (últimos 14 dias)
+      > Apresentação do cardápio do dia de forma atrativa
+
+      > Cliente responde à mensagem
+      > Saudação e confirmação de interesse
+      > Apresentação detalhada do cardápio se solicitado
+
+      > Cliente escolhe o prato
+      > Coleta do tamanho da marmita
+      > Coleta do nome do cliente
+      > Verificação: entrega ou retirada
+      > Se entrega, coleta do endereço completo
+      > Sugestão de complementos/bebidas
+
+      > Montagem do resumo do pedido
+      > Confirmação dos itens e valores
+      > Coleta do método de pagamento
+      > Confirmação final do pedido
+
+      > Formatação da comanda
+      > Envio para número/grupo da produção
+      > Confirmação do recebimento para cliente
+      > Informação do tempo estimado
+
+      > Acompanhamento de status (se necessário)
+      > Confirmação de entrega/retirada
+      > Solicitação de feedback (opcional)
+      > Atualização do CRM com informações do pedido
