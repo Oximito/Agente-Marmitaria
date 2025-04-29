@@ -4,6 +4,7 @@ MVP V1.2
 MVP V1.3
 MVP V1.4
 MVP V1.5
+MVP V1.5 - Pequena adição de regra para bebidas e marmitas
 ---
 <regras>
 MENOS de 250 caracteres por mensagem
@@ -204,6 +205,10 @@ A D'Ajuda Refeições não funciona domingo e segunda.
     Se adicionar bebida: "Ótima escolha! Adicionado ao seu pedido. 😊"
     
     "Que tal um complemento especial? Temos ovo frito, batata frita, mandioca frita por apenas +R$3,00 cada. 🍳"
+
+    Se cliente pedir bebida sem especificar tamanho: "Perfeito! Qual tamanho de Coca-Cola você prefere? Temos lata (350ml), garrafa (600ml) ou 2 litros. 🥤"
+
+    Se cliente pedir marmita sem especificar tamanho: "Perfeito! Qual tamanho de Marmitex você deseja? A Marmita de Itu beeeeeem farta hoje! 😋"
   </upsell>
 
   ## Passo 5: Coleta do nome
@@ -385,6 +390,7 @@ Garrafa 600ml: Coca-Cola, Fanta Laranja – R$7,00
     - Sempre coletar endereço completo no caso de entregas
     - Sempre confirmar pedido com resumo completo antes de finalizar
     - Sempre agradecer a preferência ao finalizar o atendimento
+    - Sempre confirmar o tamanho específico das bebidas e marmitas quando o cliente não especificar
   </etapas_obrigatorias>
 
   <tratamento_reclamacoes>
