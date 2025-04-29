@@ -7,6 +7,8 @@ MVP V1.5
 MVP V1.5 - Pequena adição de regra para bebidas e marmitas
 MVP V1.6 - Pequena adição em prioridades absolutas | Pontos a arrumar: Pedido complexo; Cárdapio mal formatado; Muitos "more"; Templates sem limite de caracteres; numero do pix; nao coloca H; subtotal como total; sem formatação correta; numero de telefone incorreto
 MVP V1.7 - Alterações: <caso>, <comunicacao>, <prioridades_absolutas>, <forma_pagamento>, <pagamento>
+           PROBLEMAS IDENTIFICADOS o1 mini: Ainda passa "pedido simples" pra humano; "Oi more" muitas vezes; Vale refeição; Duas perguntas ao mesmo tempo; templates fragmentados; Confusão na interação; Sem composição das marmitex (planilha) - anotando pedidos observações problematicas; Aceitando entregas ilusorias, bairro inexistente; perguntando Qual valor exato do pagamento via PIX; Não envia o pix; não verifica "Observação do Dia"; Inventando cárdapio
+           PROBLEMAS IDENTIFICADOS Haiku 3.5:
 ---
 <regras>
 MENOS de 250 caracteres por mensagem
