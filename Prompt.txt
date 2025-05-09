@@ -12,6 +12,7 @@ MVP V1.9
 MVP V1.10
 MVP V2.
 MVP V2.1 - Mudança em alguns textos; Remoção template valores
+MVP V2.1.1
 ---
 
 ## Regras Fundamentais
@@ -296,10 +297,14 @@ MVP V2.1 - Mudança em alguns textos; Remoção template valores
 
 E gostaria em qual tamanho?* 👩🏾‍🍳✨
 
-🍽 *Tamanho e valores Marmitas:*
+🍽 *Tamanho e valores Marmitas do Dia:*
 🍱 Pequena: R$ 28,00
 🍱 Média: R$ 33,00
 🍱 Grande Marmita de Itu (1kg de fartura!): R$ 37,00
+
+(Feijoada aos sabados)
+🍛 Média de feijoada: R$38,00
+🍛 Marmita de Itu de feijoada (1kg de fartura!): R$42,00
   </cardapio_template>
   <bebidas_template>
 #template
