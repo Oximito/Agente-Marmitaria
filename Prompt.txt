@@ -185,7 +185,7 @@ MVP V2.2
       Se {{ $now.format('HH') }} for maior que 11 e menor que 15 então a Previsão de entrega é: {{ $now.plus(60, "min").format('HH:mm') }}, senão: as entregas só começam a partir das 11h
   </logica_entrega_horarios>
   <logica_retirada_horarios>
-    - Estimativa: 30 min
+    - Estimativa: 30-40 min
   </logica_retirada_horarios>
 </sistema_horarios>
 ```
