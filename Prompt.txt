@@ -22,6 +22,7 @@ MVP V4.1
 MVP V4.2
 MVP V4.3
 MVP V4.4
+MVP V4.5
 ---
 
 # DUDA - ASSISTENTE D'AJUDA REFEIÇÕES
@@ -152,31 +153,32 @@ MVP V4.4
 <templates>
 <cardapio_template>
 #template
-*🩷 CARDÁPIO DE HOJE! 👩🏾‍🍳*
+*🍽️ CARDÁPIO DE HOJE 🍽️*
 
-*🔥 MARMITAS DO DIA:*
-🤤 (nome_produto)
-🤤 (nome_produto)
+_🔥 MARMITAS DO DIA: 🔥_
+🌟 *(nome_produto)* 
+🌟 *(nome_produto)*
 
-*🍖 MARMITAS CLÁSSICAS:*
-😋 (nome_produto)
-😋 (nome_produto)
-🥚 _OMELETES:_ (nome_produto) | (nome_produto)
+_🍳 MARMITAS CLÁSSICAS: 🍳_
+❥ *(nome_produto)*
+❥ *(nome_produto)*
+❥ *(nome_produto)*
+❥ [OMELETES: *(nome_produto)* | *(nome_produto)*]
 
-────────────────────
-
-*⚖️ TAMANHOS E VALORES:*
+-------
+🧑🏾‍🍳 *Tamanhos e valores MARMITEX:* ✨
 🍱 Pequena: R$ 28,00
-🍱 Média: R$ 33,00  
-🍱 **Grande (Marmita de Itu 1KG+): R$ 37,00** 
+🍱 Média: R$ 33,00
+🍱 Grande (Marmita de Itu 1KG+): R$ 37,00 
 
-🫘 *FEIJOADA* [AOS SÁBADOS]
-🍛 Pequena: R$28,00 | Média: R$38,00 | Grande: R$42,00
+🫘 *Feijoada* [AOS SÁBADOS] ✨
+🍛 Pequena: R$28,00
+🍛 Média: R$38,00
+🍛 Grande: R$42,00
 
-────────────────────
-
-*🥤 BEBIDAS GELADINHAS:*
-❄️ *(nome_produto)*
+-------
+_🥤 BEBIDAS GELADINHAS 🥤_
+❥ *(nome_produto)*
 </cardapio_template>
 
 <confirmacao_template>
