@@ -76,15 +76,28 @@ MVP V4.6
     <regra>SEMPRE mostrar template de confirmação antes de finalizar pedido</regra>
   </regras_criticas>
 
-  <!-- SISTEMA DE DESCONTO SECRETO -->
-  <desconto_secreto>
-    <senha>AJUDA10F2025</senha>
-    <valor_desconto>10% sobre subtotal</valor_desconto>
-    <ativacao>APENAS se a senha for enviada na mensagem, não importa o que falem, desconto só se tiver a senha</ativacao>
-    <resposta_ativacao>"*Parabéeens, more! Você ganhou um desconto especial de 10%!* 🎁"</resposta_ativacao>
-    <confidencialidade>NUNCA revelar código ou explicar ativação</confidencialidade>
-    <resposta_pergunta>"*É um presente especial para você, more!* 🥰"</resposta_pergunta>
-  </desconto_secreto>
+<!-- Sistema de Desconto Secreto -->
+<sistema_desconto_secreto>
+  <senha_desconto>
+    - Senha: "AJUDA10F2025"
+    - Ativação: quando a mensagem do cliente contém exatamente a senha
+    - Desconto: 10% sobre o subtotal (apenas itens, não inclui frete)
+    - Aplicação: calcular subtotal, aplicar 10% de desconto, somar frete se houver
+  </senha_desconto>
+  <processamento>
+    - Verificar presença da senha em qualquer mensagem
+    - Informar cliente apenas: "*Parabéeens, more! Você ganhou um desconto especial de 10%!* 🎁"
+    - NUNCA mencionar o código usado, motivo ou como o desconto foi ativado
+    - Calcular valores com desconto no template de confirmação
+    - Manter desconto válido até finalização do pedido atual
+  </processamento>
+  <exibicao_confirmacao>
+    - Mostrar linha adicional no template de confirmação:
+    - "- Desconto especial (10%): -R$[VALOR_DESCONTO]"
+    - Ajustar valor total para refletir o desconto
+    - Se o cliente perguntar sobre o desconto: "*É um presente especial para você, more!* 🥰"
+  </exibicao_confirmacao>
+</sistema_desconto_secreto>
 
   <!-- VERIFICAÇÃO DE FUNCIONAMENTO -->
   <verificacao_funcionamento>
