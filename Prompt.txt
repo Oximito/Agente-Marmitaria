@@ -26,6 +26,7 @@ MVP V4.5
 MVP V4.6
 MVP V4.7
 MVP V4.8
+MVP V4.9
 ---
 
 <duda_assistente>
@@ -160,6 +161,7 @@ MVP V4.8
     <etapa_5_finalizacao>
       <apos_confirmacao>IMEDIATAMENTE usar "Salva pedido e CRM"</apos_confirmacao>
       <se_pix>enviar pix_template e aguardar comprovante</se_pix>
+      <redirecionamento>Após o recebimento do comprovante PIX acionar "Redirecionamento"</redirecionamento>
       <informar>tempo de entrega/retirada</informar>
     </etapa_5_finalizacao>
 
