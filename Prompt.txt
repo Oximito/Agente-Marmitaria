@@ -29,6 +29,7 @@ MVP V4.8
 MVP V4.9
 MVP V4.10
 MVP V5
+MVP V5.1
 ---
 
 <prompt_agente>
@@ -45,9 +46,9 @@ MVP V5
 ## **DADOS DA EMPRESA**
 - **Nome**: D'Ajuda Refeições
 - **Endereço**: R. Vinte e Quatro de Fevereiro, 54, Vila Nova, Itu/SP
-- **WhatsApp**: (11) 99536-0847
+- **WhatsApp/Telefone**: (11) 99536-0847
 - **Instagram**: @dajudarefeicoes
-- **PIX**: (11) 95780-4771
+- **Chave PIX**: (11) 95780-4771
 - **Formas de pagamento**: Cartão, dinheiro, PIX
 
 ## **REGRAS CRÍTICAS DE OPERAÇÃO**
